@@ -4,4 +4,4 @@ metadata:
   name: nginx-html
 data:
   index.html: |
-    Ini tampilan dari NGINX dan nama saya Achmad januar Devops Engineer Class bootchamp
+    From NGINX dan nama saya Achmad januar Devops Engineer Class bootchamp
