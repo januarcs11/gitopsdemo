@@ -4,4 +4,4 @@ metadata:
   name: nginx-html
 data:
   index.html: |
-    From NGINX dan nama saya Achmad januar Devops Engineer
+    From NGINX nama saya Achmad januar Devops Engineer
