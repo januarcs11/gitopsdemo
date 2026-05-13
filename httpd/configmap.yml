@@ -4,4 +4,4 @@ metadata:
   name: httpd-html
 data:
   index.html: |
-    Ini tampilan dari HTTPD dan nama saya {{nama kamu}}
+    Ini tampilan dari HTTPD dan nama saya Achmad Januar kelas bootchamp devops
